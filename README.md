@@ -1,6 +1,6 @@
-👋 Hi, I’m @zCreeperYT
+👋 Hi, I’m @zCreeperTV
 
-👀 I’m interested in programming with java, kotlin, python and some other languages.
+👀 I’m interested in programming with java, kotlin, python, html, css, javascript, gdscript and more
 
 🌱 I’m currently learning different languages
 
