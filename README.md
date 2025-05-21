@@ -1,6 +1,6 @@
 👋 Hi, I’m @zCreeperTV
 
-👀 I’m interested in programming with java, kotlin, python, html, css, javascript, gdscript and more
+👀 I’m interested in programming with Java, Kotlin, Python, HTML, CSS, JavScript, GDScript and Kotlin
 
 🌱 I’m currently learning different languages
 
