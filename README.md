@@ -20,7 +20,6 @@ Here are the main languages and tools I’m currently using:
 
 ## 🔥Current projects
 
-- **TeamCastle** - A german Minecraft server focussing on fun! [Click here!](https://discord.teamcastle.net)
 - **CodeBlocksMC** - The next Minecraft network with the best innovatice Minigames you can get! [Click here!](https://discord.codeblocksmc.com)
 - **Caesar** - The ultimate Minecraft Management System for your Minecraft Server! [Click here!](https://caesarnet.cloud)
 - **Soon** - I'm currently conceping a game that i will soon start! [In progress](https://github.com/zCreeperYT)
